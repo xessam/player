@@ -1,0 +1,56 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "modules": false,
+        "useBuiltIns": "entry",
+        "targets": "> 0.25%, last 2 versions, Firefox ESR, not dead",
+        // "targets": {
+        //   "chrome": "30",
+        //   "ie": "11"
+          // "browsers": [
+          //   "last 2 Chrome versions",
+          //   "last 2 Firefox versions",
+          //   "last 2 Safari versions",
+          //   "last 2 iOS versions",
+          //   "last 1 Android version",
+          //   "last 1 ChromeAndroid version",
+          //   "ie 11"
+          // ]
+        // }
+      }
+    ],
+    // "es2015",
+    "@babel/preset-react"
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties"
+  ],
+  "sourceMaps": true
+}
+// {
+//   "presets": [
+//     [
+//       "@babel/preset-env",
+//       {
+//         "modules": false,
+//         "targets": {
+//           "browsers": [
+//             "last 2 Chrome versions",
+//             "last 2 Firefox versions",
+//             "last 2 Safari versions",
+//             "last 2 iOS versions",
+//             "last 1 Android version",
+//             "last 1 ChromeAndroid version",
+//             "ie 11"
+//           ]
+//         }
+//       }
+//     ],
+//     "@babel/preset-react"
+//   ],
+//   "plugins": [
+//     "@babel/plugin-proposal-class-properties"
+//   ]
+// }
