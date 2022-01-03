@@ -2653,19 +2653,19 @@ const seasonEpisodes = [
   },
 ];
 
-const extraData ={
+const extraData = {
     "source": [
         {
             "type": "application/x-mpegURL",
-            "src": "https://play10.filmgardi.com/AeAv3Nndl7dbwzaDpc1Ebg/1641175688/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/master.m3u8"
+            "src": "https://play1.filmgardi.com/heI_MTRl1c1etqnmFFhhXQ/1641247264/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/master.m3u8"
         }
     ],
     "title": "",
     "subtitle": null,
-    "poster": "https://play10.filmgardi.com/AeAv3Nndl7dbwzaDpc1Ebg/1641175688/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/thumbnail.png",
-    "thumbnail": "https://play10.filmgardi.com/AeAv3Nndl7dbwzaDpc1Ebg/1641175688/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/thumbnail.png",
-    "tooltip_url": "https://play10.filmgardi.com/AeAv3Nndl7dbwzaDpc1Ebg/1641175688/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/tooltip.vtt"
-};
+    "poster": "https://play1.filmgardi.com/heI_MTRl1c1etqnmFFhhXQ/1641247264/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/thumbnail.png",
+    "thumbnail": "https://play1.filmgardi.com/heI_MTRl1c1etqnmFFhhXQ/1641247264/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/thumbnail.png",
+    "tooltip_url": "https://play1.filmgardi.com/heI_MTRl1c1etqnmFFhhXQ/1641247264/movies/730b006e-149d-4131-84f9-c4aa3b89dd87/tooltip.vtt"
+}
 
 const imortalData = {
   source: [
