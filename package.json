@@ -48,7 +48,7 @@
     "webpack-merge": "^5.2.0"
   },
   "dependencies": {
-    "@filmgardi/phoenix-video-player": "^0.2.1",
+    "@filmgardi/phoenix-video-player": "0.2.0",
     "@filmgardi/videojs-phoenix-theme": "^1.0.4",
     "classnames": "^2.3.1",
     "core-js": "^3.20.1",
