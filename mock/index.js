@@ -2655,10 +2655,10 @@ const seasonEpisodes = [
 
 const extraData = {
     "source": [
-        {
-            "type": "application/x-mpegURL",
-            "src": "https://play2.filmgardi.com/O7UJ7-qxxtMGzAtgyT2OoA/1640719681/movies/6d240e6e-25e4-4c47-980c-f5cbdb01d9a8/master.m3u8"
-        }
+         {
+            src: "https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+            type: "application/x-mpegURL",
+          },
     ],
     "title": "",
     "subtitle": null,
